@@ -1,0 +1,12 @@
+# Datos descargados y copia del repo de Dungeon Crawl (se regeneran desde el commit fijo)
+data/
+crawl/
+
+# Pesos y salidas pesadas (se enlazan en el README si pesan mucho)
+salidas/
+*.pt
+*.pth
+
+# Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
