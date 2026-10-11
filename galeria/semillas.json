@@ -1,0 +1,58 @@
+{
+  "modelo": "hinge",
+  "pesos": "pesos/G_final.pt",
+  "generadas": 200,
+  "elegidas": 10,
+  "criaturas": [
+    {
+      "n": 1,
+      "semilla": 0,
+      "archivo": "criatura_01_semilla_000.png"
+    },
+    {
+      "n": 2,
+      "semilla": 3,
+      "archivo": "criatura_02_semilla_003.png"
+    },
+    {
+      "n": 3,
+      "semilla": 10,
+      "archivo": "criatura_03_semilla_010.png"
+    },
+    {
+      "n": 4,
+      "semilla": 24,
+      "archivo": "criatura_04_semilla_024.png"
+    },
+    {
+      "n": 5,
+      "semilla": 36,
+      "archivo": "criatura_05_semilla_036.png"
+    },
+    {
+      "n": 6,
+      "semilla": 42,
+      "archivo": "criatura_06_semilla_042.png"
+    },
+    {
+      "n": 7,
+      "semilla": 58,
+      "archivo": "criatura_07_semilla_058.png"
+    },
+    {
+      "n": 8,
+      "semilla": 113,
+      "archivo": "criatura_08_semilla_113.png"
+    },
+    {
+      "n": 9,
+      "semilla": 174,
+      "archivo": "criatura_09_semilla_174.png"
+    },
+    {
+      "n": 10,
+      "semilla": 194,
+      "archivo": "criatura_10_semilla_194.png"
+    }
+  ]
+}
